@@ -1,4 +1,4 @@
-# Volatility-Analyzer
+
 # Volatility Analyzer (Google Colab Project)
 
 This project calculates and visualizes the **annualized volatility** of a stock using real historical market data.  
